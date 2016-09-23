@@ -1,4 +1,4 @@
-# NES Zelda
+# NES Zelda :: The newer version can be found here: https://github.com/xylafur/Zelda-Clone
 ## The project i thought I deleted!
 ##Somehow an udacity course I was working on got mixed up with all this... Thats why it says that there are 84 contributors lol.  (They have great tutorials!)
 
