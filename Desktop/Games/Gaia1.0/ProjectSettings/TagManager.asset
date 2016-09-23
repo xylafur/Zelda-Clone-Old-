@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerWeapon
+  - Enemy
+  - EnemyWeapon
+  - SpawnZone
+  - EnemyShield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - GameOver Screen
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Playfield
+    uniqueID: 3151226525
+    locked: 0
+  - name: Display
+    uniqueID: 2105580169
+    locked: 0
+  - name: Top
+    uniqueID: 3816247531
+    locked: 0
+  - name: TOPTOP
+    uniqueID: 2182835607
+    locked: 0

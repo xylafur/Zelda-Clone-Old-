@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaia1.0.CSharp.Plugins", "Gaia1.0.CSharp.Plugins.csproj", "{7CE92CA9-1965-CE0A-AB35-FA8652524FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaia1.0.CSharp", "Gaia1.0.CSharp.csproj", "{17D8F5B0-0BB4-7C62-004D-59536917FEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gaia1.0.CSharp.Editor", "Gaia1.0.CSharp.Editor.csproj", "{BC1EE1E7-C83F-9B47-EDFC-04634FE76482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE92CA9-1965-CE0A-AB35-FA8652524FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE92CA9-1965-CE0A-AB35-FA8652524FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE92CA9-1965-CE0A-AB35-FA8652524FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE92CA9-1965-CE0A-AB35-FA8652524FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D8F5B0-0BB4-7C62-004D-59536917FEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D8F5B0-0BB4-7C62-004D-59536917FEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D8F5B0-0BB4-7C62-004D-59536917FEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D8F5B0-0BB4-7C62-004D-59536917FEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1EE1E7-C83F-9B47-EDFC-04634FE76482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1EE1E7-C83F-9B47-EDFC-04634FE76482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1EE1E7-C83F-9B47-EDFC-04634FE76482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1EE1E7-C83F-9B47-EDFC-04634FE76482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
